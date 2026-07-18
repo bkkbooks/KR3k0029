@@ -33,6 +33,7 @@ markers:
   - {type: substitution, offset: 27, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: substitution, offset: 37, original: 箴, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20164}}
   - {type: punctuation, offset: 41, content: (, id: KR3k0029_krp_021-bkkpn1}
+  - {type: voice, offset: 41, length: 32, name: note, id: n1}
   - {type: punctuation, offset: 42, content: /, id: KR3k0029_krp_021-bkkpn2}
   - {type: punctuation, offset: 42, content: ), id: KR3k0029_krp_021-bkkpn3}
   - {type: 'kr:newline', offset: 42, content: '
@@ -2228,4 +2229,4 @@ markers:
 
       ', id: KR3k0029_krp_021-bkkkrnewl467}
   back: []
-hash: sha256:6360260b8b43be0af63254528ae2982560a4b1f7855fef49f8785082bc53004a
+hash: sha256:7e9a8660c4f6ad4c496e23351bbd1188c1a66bad5518f6df8f632f04d817777e

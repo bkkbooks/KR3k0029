@@ -31,6 +31,7 @@ markers:
   - {type: line-break, offset: 19, content: '', id: KR3k0029_WYG_065-1a05}
   - {type: substitution, offset: 29, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
   - {type: punctuation, offset: 31, content: (, id: KR3k0029_krp_065-bkkpn1}
+  - {type: voice, offset: 31, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 40, content: /, id: KR3k0029_krp_065-bkkpn2}
   - {type: punctuation, offset: 40, content: ), id: KR3k0029_krp_065-bkkpn3}
   - {type: 'kr:newline', offset: 40, content: '
@@ -80,6 +81,7 @@ markers:
       ', id: KR3k0029_krp_065-bkkkrnewl14}
   - {type: line-break, offset: 188, content: '', id: KR3k0029_WYG_065-1b06}
   - {type: punctuation, offset: 191, content: (, id: KR3k0029_krp_065-bkkpn7}
+  - {type: voice, offset: 191, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 198, content: /, id: KR3k0029_krp_065-bkkpn8}
   - {type: punctuation, offset: 198, content: ), id: KR3k0029_krp_065-bkkpn9}
   - {type: indent, offset: 206, content: 　, id: KR3k0029_krp_065-bkkind7}
@@ -1943,6 +1945,7 @@ markers:
   - {type: substitution, offset: 7590, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: substitution, offset: 7599, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
   - {type: punctuation, offset: 7602, content: (, id: KR3k0029_krp_065-bkkpn10}
+  - {type: voice, offset: 7602, length: 62, name: note, id: n3}
   - {type: substitution, offset: 7606, original: 㐮, replacement: 襄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19399}}
   - {type: punctuation, offset: 7611, content: /, id: KR3k0029_krp_065-bkkpn11}
   - {type: punctuation, offset: 7611, content: ), id: KR3k0029_krp_065-bkkpn12}
@@ -1982,6 +1985,7 @@ markers:
       ', id: KR3k0029_krp_065-bkkkrnewl434}
   - {type: line-break, offset: 7695, content: '', id: KR3k0029_WYG_065-25a03}
   - {type: punctuation, offset: 7699, content: (, id: KR3k0029_krp_065-bkkpn22}
+  - {type: voice, offset: 7699, length: 54, name: note, id: n4}
   - {type: punctuation, offset: 7716, content: /, id: KR3k0029_krp_065-bkkpn23}
   - {type: punctuation, offset: 7716, content: ), id: KR3k0029_krp_065-bkkpn24}
   - {type: 'kr:newline', offset: 7716, content: '
@@ -2063,4 +2067,4 @@ markers:
 
       ', id: KR3k0029_krp_065-bkkkrnewl449}
   back: []
-hash: sha256:43a589d5bc87fe1bcc7f58993adc9d7c45b6baaf9392c8f443ef3da8ace9c8cc
+hash: sha256:a1da9da0c867924f35c7480e40b1adaab5c2b8c1199388cf1d2cc7addb179b7d
